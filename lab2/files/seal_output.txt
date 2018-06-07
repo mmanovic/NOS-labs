@@ -1,0 +1,17 @@
+---BEGIN OS2 CRYPTO DATA---
+Description:
+    Decrypted Seal
+
+File name:
+    files/seal_output.txt
+
+Method:
+    DES3
+    RSA
+    ElGamal
+    sha3_512
+
+Data:
+    Sve je cool.    
+
+---END OS2 CRYPTO DATA---

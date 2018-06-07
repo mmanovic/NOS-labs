@@ -1,0 +1,11 @@
+---BEGIN OS2 CRYPTO DATA---
+Description:
+    Data
+
+File name:
+    ulaz.txt
+
+Data:
+    Sve je cool.
+
+---END OS2 CRYPTO DATA---

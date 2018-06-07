@@ -1,0 +1,24 @@
+---BEGIN OS2 CRYPTO DATA---
+Description:
+    Crypted file
+
+Method:
+    DES3
+
+Crypt Method:
+    OFB
+
+Key length:
+    80
+
+Initialization vector:
+    08651668781A98DA
+
+File name:
+    C:/PycharmProjects/NOS-lab2/files/sim_izlaz.txt
+
+Data:
+    gejjdIaj4ZChT8h3K8/Y9Bl/fvHAHQwVDOwhLswv42FoOiB/TMtWBQhdoF+r
+    TRsL
+
+---END OS2 CRYPTO DATA---

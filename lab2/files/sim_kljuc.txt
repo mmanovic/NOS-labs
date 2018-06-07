@@ -1,0 +1,17 @@
+---BEGIN OS2 CRYPTO DATA---
+Description:
+    Secret key
+
+Method:
+    DES3
+
+File name:
+    files/sim_kljuc.txt
+
+Key length:
+    c0
+
+Secret key:
+    073F95C6DCAFB58C59672A6991C9F9341076621D05AE849D
+
+---END OS2 CRYPTO DATA---

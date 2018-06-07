@@ -1,0 +1,15 @@
+---BEGIN OS2 CRYPTO DATA---
+Description:
+    Decrypted Envelope
+
+File name:
+    files/env_output.txt
+
+Method:
+    AES
+    RSA
+
+Data:
+    Sve je cool.    
+
+---END OS2 CRYPTO DATA---

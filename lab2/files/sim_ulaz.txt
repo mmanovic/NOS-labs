@@ -1,0 +1,11 @@
+---BEGIN OS2 CRYPTO DATA---
+Description:
+    Decrypted file
+
+File name:
+    C:/PycharmProjects/NOS-lab2/files/sim_ulaz.txt
+
+Data:
+    sixteen byte key i jos neko smece aushdaiusf
+
+---END OS2 CRYPTO DATA---
